@@ -15,61 +15,26 @@
 12. [Conclusion](#conclusion)
 13. [Project Files](#project-files)
 14. [Contact Information](#contact-information)
-# Adidas US Sales Analysis
-
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Domain](https://img.shields.io/badge/Domain-Retail%20%7C%20Sales%20Analytics-blue)
-
----
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Problem Statement](#problem-statement)
-3. [Objectives](#objectives)
-4. [Dataset Description](#dataset-description)
-5. [Tools Used](#tools-used)
-6. [Data Cleaning Process](#data-cleaning-process)
-7. [Data Analysis](#data-analysis)
-8. [Dashboard](#dashboard)
-9. [Key Insights](#key-insights)
-10. [Recommendations](#recommendations)
-11. [Limitations](#limitations)
-12. [Conclusion](#conclusion)
-13. [Project Files](#project-files)
-14. [Contact Information](#contact-information)
-
----
 
 ## Project Overview
+This project presents a sales performance analysis of Adidas US operations using Microsoft Excel. The analysis covers sales transactions across five regions, six major retail partners, six product categories, and three sales channels from January to December.
 
-This project presents a comprehensive sales performance analysis of Adidas US operations using Microsoft Excel. The analysis covers sales transactions across five regions, six major retail partners, six product categories, and three sales channels — spanning a full calendar year (January to December).
-
-The goal was to move beyond descriptive reporting and deliver strategic, actionable insights that answer the core business question: **Where should Adidas invest, when should it act, which products to prioritize, and which retail partners deliver the most value?**
-
----
+The goal was to move beyond descriptive reporting and deliver strategic, actionable insights that answer the core business questions.
 
 ## Problem Statement
-
 Adidas operates across a large and complex US retail landscape involving multiple regions, retailers, product lines, and sales channels. Without a structured view of performance across these dimensions, it becomes difficult to identify which areas are driving growth, which are underperforming, and where strategic resources should be focused.
 
 This analysis was designed to address that gap by transforming raw transactional sales data into a clear, decision-ready performance overview.
 
----
-
 ## Objectives
-
-- Evaluate total sales, operating profit, and operating margin across all dimensions
-- Identify the highest and lowest performing regions by revenue and profitability
-- Determine which retail partners and sales channels generate the most value
-- Analyze product category performance to guide inventory and marketing decisions
-- Uncover seasonal trends to support campaign and promotional planning
-- Deliver strategic recommendations backed by data
-
----
+* Evaluate total sales, operating profit, and operating margin across all dimensions
+* Identify the highest and lowest performing regions by revenue and profitability
+* Determine which retail partners and sales channels generate the most value
+* Analyze product category performance to guide inventory and marketing decisions
+* Uncover seasonal trends to support campaign and promotional planning
+* Deliver strategic recommendations backed by data
 
 ## Dataset Description
-
 | Field | Description |
 |---|---|
 | **Retailer** | Name of the retail partner (e.g., Foot Locker, Walmart, Amazon) |
@@ -87,8 +52,8 @@ This analysis was designed to address that gap by transforming raw transactional
 | **Sales Method** | Channel through which the sale was made (In-store, Online, Outlet) |
 
 **Dataset Summary:**
-- Total Records: 9,648 transactions
-- Total Revenue: $899,902,125
+* Total Records: 9,648 transactions
+* Total Revenue: $899,902,125
 - Total Units Sold: 2,478,861
 - Total Operating Profit: $332,134,761
 - Average Price per Unit: $45.22
