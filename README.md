@@ -73,18 +73,22 @@ Dashboard 2 — Product category analysis, monthly trends, and sales channel com
 Regional Performance
 * The West region was the top-performing region with $269.9M in revenue and $89.6M in operating profit — the highest of all five regions
 * The Midwest was the lowest performer with $135.8M in revenue and $52.8M in profit
+
 Retailer Performance
 * West Gear generated the highest total revenue at $242.9M, followed closely by Foot Locker at $220.1M
 * Walmart was the lowest-performing retail partner with $74.6M in revenue
 * West Gear also led in operating profit at $85.7M, indicating strong profitability alongside high revenue
+
 Product Performance
 * Men's Street Footwear was the top revenue-generating product at $208.8M with the highest operating margin of 44.6%
 * Women's Athletic Footwear was the lowest revenue product at $106.6M
 * Women's Apparel had the highest total units sold at 433,827 units, suggesting strong volume but lower price point
+
 Sales Channel Performance
 * In-store generated the highest operating profit at $127.6M, despite online having the highest unit sales at 939,093 units
 * Online shows growing volume but lower per-unit profitability compared to in-store
 * Outlet contributed the highest unit volume after online but had the lowest margin efficiency
+
 Monthly Trends
 * Sales peaked in July ($95.5M) and August ($92.2M), indicating strong summer demand
 * The lowest sales month was March ($56.8M)
