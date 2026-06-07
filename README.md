@@ -103,7 +103,7 @@ Monthly Trends
 This analysis of Adidas US sales data revealed clear patterns in regional performance, retailer value, product profitability, and seasonal demand. The West region and Men's Street Footwear emerged as the strongest performers, while the Midwest and Women's Athletic Footwear present growth opportunities. The findings provide a data-backed foundation for Adidas to make more informed decisions about where to invest, which products to prioritize, and how to optimize its retail partnerships and sales channels for greater profitability.
 
 ## Project Files
-[View main Excel workbook](./Adidas_US_Sales_Analysis.xlsx)
+[View main Excel workbook](./Adidas US Sales Analysis.xlsx)
 
 The Excel workbok contains:
 * The raw data
