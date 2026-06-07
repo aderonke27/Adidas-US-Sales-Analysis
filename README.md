@@ -45,29 +45,20 @@ Microsoft Excel — Data cleaning, pivot table analysis, dashboard development
 
 ## Data Cleaning Process
 Before analysis, the dataset was reviewed and prepared to ensure accuracy and consistency:
-* Date formatting** — Invoice dates were stored as serial numbers and converted to proper date format (DD/MM/YYYY) for time-based analysis
-- **Data type validation** — Numerical fields (Price per Unit, Total Sales, Operating Profit) were checked and formatted correctly as currency values
+* Date formatting — Invoice dates were stored as serial numbers and converted to proper date format (DD/MM/YYYY) for time-based analysis
+* Data type validation — Numerical fields (Price per Unit, Total Sales, Operating Profit) were checked and formatted correctly as currency values
 * The dataset was screened for duplicate transaction records
-- **Consistency checks** — Product names, retailer names, and region labels were standardized for uniform grouping in pivot tables
+* Consistency checks — Product names, retailer names, and region labels were standardized for uniform grouping in pivot tables
 * Fields were checked for blanks or null entries that could affect aggregation accuracy
 * Margin values were confirmed as decimal ratios and formatted as percentages for readability
 
 ## Data Analysis
 The analysis was structured across five key dimensions:
-**1. Regional Performance**
-Sales and profitability were aggregated by region to identify geographic strengths and gaps across the West, Northeast, Southeast, South, and Midwest.
-
-**2. Retailer Performance**
-Revenue and operating profit were broken down by all six retail partners — West Gear, Foot Locker, Sports Direct, Kohl's, Amazon, and Walmart — to evaluate partner value and contribution.
-
-**3. Product Category Performance**
-All six product categories were analyzed for total revenue, units sold, and average operating margin to determine the most and least profitable lines.
-
-**4. Sales Channel Analysis**
-Performance was compared across three sales channels — In-store, Online, and Outlet — by revenue, units sold, and operating profit to identify the most efficient distribution method.
-
-**5. Monthly Trend Analysis**
-Monthly revenue and average price per unit were tracked across the full year to identify seasonal peaks, troughs, and pricing patterns.
+* Regional Performance: Sales and profitability were aggregated by region to identify geographic strengths and gaps across the West, Northeast, Southeast, South, and Midwest.
+* Retailer Performance: Revenue and operating profit were broken down by all six retail partners — West Gear, Foot Locker, Sports Direct, Kohl's, Amazon, and Walmart — to evaluate partner value and contribution.
+* Product Category Performance: All six product categories were analyzed for total revenue, units sold, and average operating margin to determine the most and least profitable lines.
+* Sales Channel Analysis: Performance was compared across three sales channels — In-store, Online, and Outlet — by revenue, units sold, and operating profit to identify the most efficient distribution method.
+* Monthly Trend Analysis: Monthly revenue and average price per unit were tracked across the full year to identify seasonal peaks, troughs, and pricing patterns.
 
 ## Dashboard
 The project includes two interactive Excel dashboards built with PivotCharts, slicers, and conditional formatting:
@@ -112,9 +103,12 @@ Monthly Trends
 This analysis of Adidas US sales data revealed clear patterns in regional performance, retailer value, product profitability, and seasonal demand. The West region and Men's Street Footwear emerged as the strongest performers, while the Midwest and Women's Athletic Footwear present growth opportunities. The findings provide a data-backed foundation for Adidas to make more informed decisions about where to invest, which products to prioritize, and how to optimize its retail partnerships and sales channels for greater profitability.
 
 ## Project Files
-| File | Description |
-|---|---|
-| `Adidas_US_Sales_Analysis.xlsx` | Main Excel workbook containing raw data, analysis sheets, and dashboards |
+[View main Excel workbook](./Adidas_US_Sales_Analysis.xlsx)
+
+The Excel workbok contains:
+* The raw data
+* Analysis sheets
+* Dashboards
 
 ## Contact Information
 * Email: aladeloyeesther616@gmail.com
