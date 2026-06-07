@@ -1,5 +1,4 @@
-# Adidas-US-Sales-Analysis
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+# Adidas-US-Sales-Analysis![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20%7C%20Sales%20Analytics-blue)
 
